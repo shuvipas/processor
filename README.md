@@ -1,11 +1,11 @@
 # processor
-This project was part of a FPGA course at huji that i completed with yosef sokolik.
-We were asked to actualize a simple processor.
+This project was part of a FPGA course at huji that I completed with Yosef Sokolik.
+We were asked to implement a simple processor.
 The processor had to execute the folowing commands:
-1.  copy data from one register to another (Rx ← [Ry]).
-2. insert a number into a register (Rx ← D).
-3. add two registers (Rx ← [Rx] + [Ry]).
-4. substract one register from another (Rx ← [Rx] − [Ry]).
-5. count the number of ‘ones’ that are in a register (Ry ← number of ones [Rx]).
+1. Copy data from one register to another (Rx ← [Ry]).
+2. Insert a number into a register (Rx ← D).
+3. Add two registers (Rx ← [Rx] + [Ry]).
+4. Substract one register from another (Rx ← [Rx] − [Ry]).
+5. Count the number of ‘ones’ that are in a register (Ry ← number of ones [Rx]).
 
-The full Instructions for the processor are in a  file named “Lab#3_Processor_Specification”.  the skeleton and the functions that were given to us are in a folder named “given modules”. And I added the lab report in Hebrew that includes  test simulations and explanation of the code we wrote. 
+The full instructions for the processor are in a  file named “Lab#3_Processor_Specification”. The skeleton and the functions that were given to us are in a folder named “given modules”. I added the lab report in Hebrew that includes test simulations and explanation of the code we wrote. 
