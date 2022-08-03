@@ -1,5 +1,5 @@
 # processor
-This project was part of a FPGA course at huji that I completed with Yosef Sokolik.
+This project was part of a FPGA course at HUJI that I completed with Yosef Sokolik.
 We were asked to implement a simple processor.
 The processor had to execute the folowing commands:
 1. Copy data from one register to another (Rx ← [Ry]).
