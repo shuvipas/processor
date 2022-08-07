@@ -1,7 +1,7 @@
 # Processor
 This project was part of a FPGA course at HUJI that I completed with Yosef Sokolik.
 We were asked to implement a simple processor.
-The processor had to execute the folowing commands:
+The processor had to execute the following commands:
 1. Copy data from one register to another (Rx ← [Ry]).
 2. Insert a number into a register (Rx ← D).
 3. Add two registers (Rx ← [Rx] + [Ry]).
